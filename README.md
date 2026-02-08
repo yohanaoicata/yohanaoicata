@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🎓 Business administrator with marketing focus and technical skills in software development and data analysis.
-🌱 Passionate about branding, consumer behavior and digital strategy  
-✨ Interested in building meaningful brands that connect people with real stories and products
+- 🎓 Business administrator with marketing focus and technical skills in software development and data analysis.
+- Passionate about branding, consumer behavior and digital strategy  
+- ✨ Interested in building meaningful brands that connect people with real stories and products
 ---
 ### 🚀 What I'm working on
 - Developing a healthy snacks brand that connects consumers with farmers and local ingredients  
