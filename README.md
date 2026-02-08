@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**yohanaoicata/yohanaoicata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Business Administration student focused on Marketing  
+🌱 Passionate about branding, consumer behavior and digital strategy  
+✨ Interested in building meaningful brands that connect people with real stories and products
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on
+- Developing a healthy snacks brand that connects consumers with farmers and local ingredients  
+- Creating content ideas and brand storytelling strategies  
+- Learning about digital marketing and growth
+
+---
+
+### 🌱 Currently learning
+- Digital marketing  
+- Social media strategy  
+- Branding and positioning  
+- Growth marketing fundamentals  
+
+---
+
+### 💡 Interests
+- Sustainable and purpose-driven brands  
+- Content marketing  
+- Entrepreneurship  
+- Market research  
+
+✨ *“Marketing is about creating value and meaningful connections.”*
